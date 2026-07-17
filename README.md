@@ -6,7 +6,7 @@ A simple and interactive **Color Changer** web application built using **HTML, C
 
 ## 🌐 Live Demo
 
-🔗 https://your-username.github.io/Color-Changer/
+🔗 https://abhi003cs.github.io/Color-Changer/
 
 ## 📸 Screenshot
 
